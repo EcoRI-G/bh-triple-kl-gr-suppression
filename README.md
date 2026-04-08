@@ -8,7 +8,7 @@ This repository contains the simulation scripts and data products used in the st
 
 ## Overview
 
-This project investigates the dynamical evolution of hierarchical black hole triple systems using direct N-body simulations. The primary focus is on the competition between:
+This project investigates the dynamical evolution of hierarchical black hole triple systems using direct n-body simulations. The primary focus is on the competition between:
 
 - Kozai–Lidov (KL) oscillations  
 - Relativistic apsidal precession  
