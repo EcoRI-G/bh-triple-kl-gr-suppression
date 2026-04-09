@@ -1,8 +1,8 @@
-# Relativistic Suppression of Kozai–Lidov-Driven Mergers in Hierarchical Black Hole Triples
+# Relativistic Suppression of Kozai–Lidov Driven Mergers in Hierarchical Black Hole Triples
 
 This repository contains the simulation scripts and data products used in the study:
 
-**“Relativistic Suppression of Kozai–Lidov-Driven Mergers in Hierarchical Black Hole Triples”**
+**“Relativistic Suppression of Kozai–Lidov Driven Mergers in Hierarchical Black Hole Triples”**
 
 ---
 
